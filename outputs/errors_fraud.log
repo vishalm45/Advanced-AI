@@ -1,0 +1,125 @@
+[DBN][fold 1] TypeError: BaseEstimator.__init__() got an unexpected keyword argument 'scoring_method'
+[DBN][fold 2] TypeError: BaseEstimator.__init__() got an unexpected keyword argument 'scoring_method'
+[DBN][fold 3] TypeError: BaseEstimator.__init__() got an unexpected keyword argument 'scoring_method'
+[DBN][fold 4] TypeError: BaseEstimator.__init__() got an unexpected keyword argument 'scoring_method'
+[DBN][fold 5] TypeError: BaseEstimator.__init__() got an unexpected keyword argument 'scoring_method'
+[DBN][fold 1] AttributeError: 'DAG' object has no attribute 'fit'
+[DBN][fold 2] AttributeError: 'DAG' object has no attribute 'fit'
+[DBN][fold 3] AttributeError: 'DAG' object has no attribute 'fit'
+[DBN][fold 4] AttributeError: 'DAG' object has no attribute 'fit'
+[DBN][fold 5] AttributeError: 'DAG' object has no attribute 'fit'
+[DBN][fold 1] ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Account_Balance
+- Avg_Transaction_Amount_7d
+- Card_Age
+- Daily_Transaction_Count
+- Failed_Transaction_Count_7d
+- ...
+
+[DBN][fold 2] ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Account_Balance
+- Avg_Transaction_Amount_7d
+- Card_Age
+- Daily_Transaction_Count
+- Failed_Transaction_Count_7d
+- ...
+
+[DBN][fold 3] ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Account_Balance
+- Avg_Transaction_Amount_7d
+- Card_Age
+- Daily_Transaction_Count
+- Failed_Transaction_Count_7d
+- ...
+
+[DBN][fold 4] ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Account_Balance
+- Avg_Transaction_Amount_7d
+- Card_Age
+- Daily_Transaction_Count
+- Failed_Transaction_Count_7d
+- ...
+
+[DBN][fold 5] ValueError: The feature names should match those that were passed during fit.
+Feature names seen at fit time, yet now missing:
+- Account_Balance
+- Avg_Transaction_Amount_7d
+- Card_Age
+- Daily_Transaction_Count
+- Failed_Transaction_Count_7d
+- ...
+
+[GBN][fold 1] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 2] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 3] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 4] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 5] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 1] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 2] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 3] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 4] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 5] AttributeError: type object 'BayesianNetwork' has no attribute 'from_samples'
+[GBN][fold 1] TypeError: BayesianNetwork.__init__() got an unexpected keyword argument 'name'
+[GBN][fold 2] TypeError: BayesianNetwork.__init__() got an unexpected keyword argument 'name'
+[GBN][fold 3] TypeError: BayesianNetwork.__init__() got an unexpected keyword argument 'name'
+[GBN][fold 4] TypeError: BayesianNetwork.__init__() got an unexpected keyword argument 'name'
+[GBN][fold 5] TypeError: BayesianNetwork.__init__() got an unexpected keyword argument 'name'
+[GBN][fold 1] TypeError: can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint64, uint32, uint16, uint8, and bool.
+[GBN][fold 2] TypeError: can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint64, uint32, uint16, uint8, and bool.
+[GBN][fold 3] TypeError: can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint64, uint32, uint16, uint8, and bool.
+[GBN][fold 4] TypeError: can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint64, uint32, uint16, uint8, and bool.
+[GBN][fold 5] TypeError: can't convert np.ndarray of type numpy.object_. The only supported types are: float64, float32, float16, complex64, complex128, int64, int32, int16, int8, uint64, uint32, uint16, uint8, and bool.
+[GBN][fold 1] AttributeError: 'dict' object has no attribute 'shape'
+[GBN][fold 2] AttributeError: 'dict' object has no attribute 'shape'
+[GBN][fold 3] AttributeError: 'dict' object has no attribute 'shape'
+[GBN][fold 4] AttributeError: 'dict' object has no attribute 'shape'
+[GBN][fold 5] AttributeError: 'dict' object has no attribute 'shape'
+[GBN][fold 1] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 2] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 3] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 4] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 5] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 1] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 2] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 3] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 4] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 5] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 1] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 2] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 3] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 4] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 5] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 1] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 2] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 3] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 4] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 5] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 1] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 2] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 3] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 4] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 5] AttributeError: 'list' object has no attribute 'shape'
+[GBN][fold 1] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 2] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 3] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 4] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 5] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 1] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 2] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 3] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 4] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 5] ValueError: X.shape[1] must match the number of marginals.
+[GBN][fold 1] UnboundLocalError: cannot access local variable 'd' where it is not associated with a value
+[GBN][fold 2] UnboundLocalError: cannot access local variable 'd' where it is not associated with a value
+[GBN][fold 3] UnboundLocalError: cannot access local variable 'd' where it is not associated with a value
+[GBN][fold 4] UnboundLocalError: cannot access local variable 'd' where it is not associated with a value
+[GBN][fold 5] UnboundLocalError: cannot access local variable 'd' where it is not associated with a value
+[DBN][fold 1] ValueError: invalid literal for int() with base 10: 'Bank Transfer'
+[DBN][fold 2] ValueError: invalid literal for int() with base 10: 'Bank Transfer'
+[DBN][fold 3] ValueError: invalid literal for int() with base 10: 'ATM Withdrawal'
+[DBN][fold 4] ValueError: invalid literal for int() with base 10: 'Online'
+[DBN][fold 5] ValueError: invalid literal for int() with base 10: 'ATM Withdrawal'

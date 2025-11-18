@@ -1,0 +1,5 @@
+[DBN][fold 1] UnboundLocalError: cannot access local variable 'learned_nodes' where it is not associated with a value
+[DBN][fold 2] UnboundLocalError: cannot access local variable 'learned_nodes' where it is not associated with a value
+[DBN][fold 3] UnboundLocalError: cannot access local variable 'learned_nodes' where it is not associated with a value
+[DBN][fold 4] UnboundLocalError: cannot access local variable 'learned_nodes' where it is not associated with a value
+[DBN][fold 5] UnboundLocalError: cannot access local variable 'learned_nodes' where it is not associated with a value

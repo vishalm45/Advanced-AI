@@ -1,0 +1,2 @@
+model,accuracy_mean,accuracy_std,roc_auc_mean,roc_auc_std,brier_mean,brier_std,logloss_mean,logloss_std,ece_mean,ece_std,kl_rel_mean,kl_rel_std
+GBN,0.32134,5.477225575055175e-05,0.5,0.0,0.25,0.0,0.6931471805599454,0.0,0.17865999999999999,5.4772255750547e-05,0.0,0.0
